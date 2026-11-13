@@ -88,6 +88,8 @@ Original work written by AKADATA LIMITED is by default covered by the Business S
 
 In short: you may copy, modify, create derivative works and redistribute, and make non-production use. Limited production use is permitted except offering the work to third parties on a hosted or embedded basis to compete with AKADATA's paid versions or services. Each version converts to GPL-2.0-or-later on its Change Date (four years after first public distribution of that version).
 
+Forks and rewrites: keep the licence and copyright notices displayed, give visible credit with a link to the original AKADATA repository, and state what was changed. A port to another language is a derivative, not the original — do not present it as the same thing and do not claim the work originated in the new language. Do not use AKADATA or original project names in a way that confuses origin; mark ports clearly as unofficial (e.g. "unofficial Rust port of AKADATA PeaBrain").
+
 Check the fork badge and upstream link on each repository, and the licence file in the repository itself, before assuming terms.
 
 ---
