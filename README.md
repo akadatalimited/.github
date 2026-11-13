@@ -82,7 +82,13 @@ Projects have differing levels of maturity. Experimental work is identified as s
 
 Build what is needed. Understand how it works. Document what has been tested. Correct what is wrong.
 
-Open-source and source-available software are published under the terms specified in each repository. No single licence is assumed across all AKADATA projects.
+## Licence
+
+Original work written by AKADATA LIMITED is by default covered by the Business Source License 1.1 (BUSL-1.1) — see [LICENSE](./LICENSE) — unless a repository states different terms. Cloned or forked third-party repositories remain under their upstream licences and are not covered by this default.
+
+In short: you may copy, modify, create derivative works and redistribute, and make non-production use. Limited production use is permitted except offering the work to third parties on a hosted or embedded basis to compete with AKADATA's paid versions or services. Each version converts to GPL-2.0-or-later on its Change Date (four years after first public distribution of that version).
+
+Check the fork badge and upstream link on each repository, and the licence file in the repository itself, before assuming terms.
 
 ---
 
